@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:16.085599
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:49
 #+TITLE: 天台八教大意
 #+PROPERTY: CBETA_ID T46n1930
 #+PROPERTY: ID KR6d0167
